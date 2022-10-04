@@ -96,6 +96,9 @@ This will give you a quick start on how to start a training process. The basic i
 <p align="center">
   <img src=https://www.kdnuggets.com/images/mathworks-reinforcement-learning-fig1-543.jpg alt="Image" height="200"/>
 </p>
+<p align="right">(<a href="source: https://www.kdnuggets.com/2019/10/mathworks-reinforcement-learning.html">
+Image source
+</a>)</p>
 
 - **Observations** - what the agent perceives about the environment. Observations can be numeric and/or visual.
 - **Actions** - what actions the agent can take. Similar to observations, actions can either be continuous or discrete depending on the complexity of the environment and agent.
