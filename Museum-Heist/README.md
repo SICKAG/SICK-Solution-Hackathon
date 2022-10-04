@@ -77,7 +77,7 @@ Optional:
 - CUDA libray
 
 ### Installation
-For detail description see the documentation -> [Setup.md](https://gitlab.sickcn.net/Platforms/application-virtualization/thales/thales-examples/museum-heist/-/blob/main/docs/SETUP.md)
+For detail description see the documentation -> [Setup.md](https://github.com/SICKAG/SICK-Solution-Hackathon/blob/main/Museum-Heist/docs/SETUP.md)
 
 If you are facing any issues, please contact us. 
 
@@ -104,7 +104,7 @@ Image source
 - **Actions** - what actions the agent can take. Similar to observations, actions can either be continuous or discrete depending on the complexity of the environment and agent.
 - **Reward signals** - a scalar value indicating how well the medic is doing. Note that the reward signal need not be provided at every moment, but only when the agent performs an action that is good or bad.
 
-Notes on how to start the training: [Training](https://gitlab.sickcn.net/Platforms/application-virtualization/thales/thales-examples/museum-heist/-/blob/main/docs/TRAINING.md)
+Notes on how to start the training: [Training](https://github.com/SICKAG/SICK-Solution-Hackathon/blob/main/Museum-Heist/docs/TRAINING.md)
 
 <!-- _For more examples, please refer to the [Documentation](https://github.com/Unity-Technologies/ml-agents)_ -->
 
